@@ -1,4 +1,4 @@
-# BMED_6460_GroupProject_PENGWIN
+# BMED_6460_PENGWIN Project
 
 This repository contains the training, evaluation, and inference code for our final project in **BMED 6460**, focused on the **[PENGWIN Challenge 2024](https://pengwin.grand-challenge.org/)**. The challenge involves **pelvic fracture fragment segmentation** in synthetic 2D X-ray images.
 
