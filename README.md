@@ -31,19 +31,19 @@ Each model has separate scripts for training, evaluation (IoU, HD95, ASSD), and 
 ```
 .
 ├── YOLO/
-│   ├── train_yolo.ipynb            # Train YOLOv8 for instance segmentation
-│   ├── evaluate_yolo.py            # Quantitative benchmark (first 100 images)
-│   ├── inference_yolo.py            # Mask overlay + save visual results
+│   ├── train_yolo.ipynb
+│   ├── evaluate_yolo.py
+│   ├── inference_yolo.py
 │
 ├── nnUNet/
-│   ├── nnunetv2.ipynb            # nnUNetv2 training on fragment masks
+│   ├── nnunetv2.ipynb
 │
 ├── SAM/
-│   ├── sam2.ipynb            # SAM2 fine-tuning notebook (Colab-ready)
+│   ├── sam2.ipynb
 │
 ├── utils/
-│   ├── evaluation_metrics.py          # Custom metrics functions
-│   └── pengwin_utils.py            # Mask decoding + formatting helpers
+│   ├── evaluation_metrics.py
+│   └── pengwin_utils.py
 ```
 
 ---
