@@ -36,10 +36,10 @@ Each model has separate scripts for training, evaluation (IoU, HD95, ASSD), and 
 │   ├── inference_yolo.py            # Mask overlay + save visual results
 │
 ├── nnUNet/
-│   ├── nnunetv2.ipynb          	 # nnUNetv2 training on fragment masks
+│   ├── nnunetv2.ipynb          	   # nnUNetv2 training on fragment masks
 │
 ├── SAM/
-│   ├── sam2.ipynb       			 # SAM2 fine-tuning notebook (Colab-ready)
+│   ├── sam2.ipynb       			       # SAM2 fine-tuning notebook (Colab-ready)
 │
 ├── utils/
 │   ├── evaluation_metrics.py        # Custom metrics functions
